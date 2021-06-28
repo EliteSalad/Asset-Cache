@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetCache", "AssetCache\AssetCache.csproj", "{F629952D-90CF-43A1-8361-79A7DEF19BB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F629952D-90CF-43A1-8361-79A7DEF19BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F629952D-90CF-43A1-8361-79A7DEF19BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F629952D-90CF-43A1-8361-79A7DEF19BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F629952D-90CF-43A1-8361-79A7DEF19BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74FF48A8-3159-4728-8533-9AE26A02A49C}
+	EndGlobalSection
+EndGlobal
